@@ -1,0 +1,6 @@
+app:
+  port: 4000
+db:
+  mongo:
+    database: nodetest
+    host: localhost
